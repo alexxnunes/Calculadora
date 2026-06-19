@@ -6,7 +6,7 @@ Calculadora de console feita em Java, aplicando o padrão de projeto **Strategy*
 
 ## Demonstração
 
-![demo da calculadora](docs/demo.gif)
+![demo da calculadora](docs/1.0.gif)
 
 ## Funcionalidades
 
